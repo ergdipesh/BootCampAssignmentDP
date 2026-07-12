@@ -1,0 +1,122 @@
+{"instruction": "How many casual leaves are available each year?", "response": "Employees are eligible for 12 casual leaves per year."}
+{"instruction": "How many sick leaves are available each year?", "response": "Employees are eligible for 10 sick leaves per year."}
+{"instruction": "How can I apply for sick leave?", "response": "Apply through the HR portal by selecting sick leave, entering the dates and reason, and submitting any required supporting information."}
+{"instruction": "Do I need medical proof for one day of sick leave?", "response": "Medical documentation is generally considered for leave longer than three days. HR may request documentation in other circumstances when permitted, so check the current policy if your case is unusual."}
+{"instruction": "What happens if I am sick for more than three days?", "response": "Submit sick leave through the HR portal and be prepared to provide medical documentation because leave longer than three days may require it."}
+{"instruction": "Can I take casual leave without approval?", "response": "No. A submitted request is not automatically approved. Check the HR portal or confirm with your manager unless an emergency prevents advance confirmation."}
+{"instruction": "What should I do if I cannot access the HR portal while sick?", "response": "Notify your manager and HR through an approved channel as soon as possible, then enter the leave request when access is restored."}
+{"instruction": "Can I use casual leave for a personal appointment?", "response": "Casual leave may be used for short personal needs, subject to your available balance and manager approval."}
+{"instruction": "When should I request planned leave?", "response": "Submit planned leave early enough for workload and team-coverage planning. Follow any advance-notice requirement in the current leave policy."}
+{"instruction": "Can my manager reject a leave request?", "response": "Yes. Managers may consider staffing and operational needs, although decisions should be consistent, fair, and compliant with applicable law."}
+{"instruction": "Does submitting a leave request mean it is approved?", "response": "No. Submission starts the approval process. You should verify that the request status shows approved."}
+{"instruction": "Can unused leave be carried forward?", "response": "Only when the current policy allows it. Check the HR portal for the carryover cap, expiration date, and any cash-out rules."}
+{"instruction": "Can I take leave during probation?", "response": "You may request leave, but eligibility, pay treatment, and approval depend on your offer terms, balance, business needs, and applicable law."}
+{"instruction": "How do I request unpaid leave?", "response": "Submit a written request to your manager and HR. Unpaid leave normally requires formal approval after review of the reason, duration, paid-leave balance, and operational impact."}
+{"instruction": "Is bereavement leave available?", "response": "Bereavement leave may be available. The covered relationships, duration, and documentation requirements are listed in the current bereavement policy."}
+{"instruction": "Can I use leave to reduce my notice period?", "response": "Do not assume so. Using leave during notice requires approval and depends on the notice and leave policies."}
+{"instruction": "What is the leave year?", "response": "The standard leave year runs from January 1 through December 31."}
+{"instruction": "Where can I see my leave balance?", "response": "Your current leave balance should be visible in the HR portal."}
+{"instruction": "What should I do if my leave balance looks wrong?", "response": "Report the discrepancy promptly to Human Resources and provide any relevant approved leave records."}
+{"instruction": "Is medical information kept confidential?", "response": "Yes. Medical documentation should be handled through secure channels and kept confidential according to policy and law."}
+{"instruction": "Can I take emergency leave before receiving approval?", "response": "Notify your manager as soon as possible. In a genuine emergency, advance confirmation may not be possible, but you should submit the request and supporting details promptly."}
+{"instruction": "Who can explain extended medical leave options?", "response": "Contact Human Resources. HR can explain available leave categories, documents, benefit continuation, and return-to-work requirements."}
+{"instruction": "Are public holidays deducted from leave?", "response": "The treatment of public holidays depends on the holiday and leave policies. Review the published holiday calendar or ask HR for your location."}
+{"instruction": "Can part-time employees receive the same leave?", "response": "Part-time eligibility may differ. Check the written employment terms and current policy for the applicable entitlement."}
+{"instruction": "Can the HR assistant approve my leave?", "response": "No. The assistant can explain general policy, but approval must come from the authorized manager or HR process."}
+{"instruction": "How do I record my attendance?", "response": "Use the approved attendance system to record actual start time, end time, breaks, leave, remote-work status, and overtime where applicable."}
+{"instruction": "What should I do if I will be late?", "response": "Notify your manager before your scheduled start time when possible and record the correct arrival time."}
+{"instruction": "Can repeated lateness lead to action?", "response": "Yes. Repeated lateness may lead to coaching or corrective action after the circumstances and any protected reasons are reviewed."}
+{"instruction": "How do I correct a wrong time entry?", "response": "Submit an attendance-correction request with the date, correct time, and reason for the change."}
+{"instruction": "Can my manager change my time record?", "response": "Corrections should follow the approved process and reflect actual hours worked. A manager should not approve an entry known to be inaccurate."}
+{"instruction": "What is a no-call, no-show?", "response": "It is an absence where the employee neither reports to work nor provides required notice. It may be treated as a serious attendance issue."}
+{"instruction": "Do I need approval to leave early?", "response": "Yes, except in an emergency. Contact your manager and record any required leave or schedule adjustment."}
+{"instruction": "Can I work overtime without approval?", "response": "Non-exempt employees should obtain advance approval, but all hours actually worked must still be reported."}
+{"instruction": "Is working off the clock allowed?", "response": "No. All working time must be recorded."}
+{"instruction": "Does a flexible schedule reduce my required hours?", "response": "No. It changes approved start and end times but does not reduce required hours or performance expectations."}
+{"instruction": "Who should I contact about an attendance-system error?", "response": "Submit a correction in the system and contact your manager or HR if the error cannot be resolved."}
+{"instruction": "Must remote workers record attendance?", "response": "Yes. Remote work does not remove attendance and time-recording requirements."}
+{"instruction": "Can an emergency explain a no-call, no-show?", "response": "Possibly. HR should review emergencies, communication barriers, and legal protections before any decision."}
+{"instruction": "What time should I report to work?", "response": "Report at the start time assigned in your schedule or approved flexible-work arrangement."}
+{"instruction": "Can the assistant tell me whether I will be disciplined?", "response": "No. Disciplinary decisions depend on facts, history, policy, and law. Contact your manager or HR."}
+{"instruction": "How do I submit a reimbursement claim?", "response": "Use the expense system and provide the business purpose, date, amount, currency, cost center, approvals, and itemized receipts."}
+{"instruction": "Do I need a receipt?", "response": "Itemized receipts are generally required. Use the missing-receipt procedure when a receipt cannot be obtained."}
+{"instruction": "Is a credit-card slip enough?", "response": "Usually not, because it may show only the total. An itemized receipt is preferred."}
+{"instruction": "Should I get approval before booking travel?", "response": "Yes. Obtain any required approval and use the preferred booking channel before making business-travel arrangements."}
+{"instruction": "Are personal expenses reimbursable?", "response": "No. Reimbursement is limited to reasonable, necessary, documented business expenses that comply with policy."}
+{"instruction": "Can I claim my normal commute?", "response": "Normal travel between home and the regular workplace is generally not reimbursable."}
+{"instruction": "Can I claim mileage for a business trip?", "response": "When personal-vehicle use is authorized, mileage may be reimbursed using the approved rate or local rule."}
+{"instruction": "What details are needed for a business meal?", "response": "Provide the business purpose, attendees, itemized receipt, and any required approval."}
+{"instruction": "Can I claim alcohol at a business meal?", "response": "That depends on the current expense policy and location. Do not assume it is reimbursable."}
+{"instruction": "What if I lost my receipt?", "response": "Follow the missing-receipt procedure and provide a truthful explanation and supporting evidence."}
+{"instruction": "How quickly should I submit expenses?", "response": "Submit them within the deadline in the current expense policy. Late claims may require extra approval or may be rejected."}
+{"instruction": "Are home internet costs reimbursed?", "response": "Only when the remote-work or expense policy specifically authorizes them and required approval has been obtained."}
+{"instruction": "Can I buy office equipment and claim it later?", "response": "Obtain required approval before purchasing equipment. Unapproved purchases may not be reimbursed."}
+{"instruction": "Can I use any hotel for business travel?", "response": "Use approved booking channels and select a reasonably economical option within policy limits."}
+{"instruction": "Who approves unusual expenses?", "response": "The approval authority depends on the expense type, amount, cost center, and policy. Check the workflow or ask Finance or HR."}
+{"instruction": "Why was my claim rejected?", "response": "Review the rejection reason in the expense system. Common reasons include missing receipts, lack of approval, late submission, personal items, or exceeding policy limits."}
+{"instruction": "Can the assistant calculate tax treatment of my reimbursement?", "response": "No. Tax treatment may depend on jurisdiction and individual facts. Contact Payroll, Finance, or a qualified tax professional."}
+{"instruction": "How long should I keep original receipts?", "response": "Retain them until the claim is fully processed and for any longer period required by the current policy or local law."}
+{"instruction": "How do I request work from home?", "response": "Submit the approved remote-work request with your proposed schedule, location, contact details, and equipment needs."}
+{"instruction": "Is work from home automatically available?", "response": "No. Eligibility depends on role, performance, security, location, and operational requirements."}
+{"instruction": "Can my remote-work approval be withdrawn?", "response": "Yes. Approval may be modified or withdrawn when business, performance, security, or policy needs change."}
+{"instruction": "Do I need to be online during remote work?", "response": "You must remain reachable during agreed working hours and attend required meetings."}
+{"instruction": "Can I work from a café?", "response": "Only if the approved arrangement and security rules permit it. Confidential work should not be performed where privacy or secure connectivity cannot be maintained."}
+{"instruction": "Can family members use my company laptop?", "response": "No. Company systems and devices must be protected from unauthorized access."}
+{"instruction": "What security rules apply at home?", "response": "Use approved devices, secure connections, multifactor authentication, and proper handling of confidential information."}
+{"instruction": "What if I am injured while working from home?", "response": "Report the incident promptly through the workplace-injury or incident-reporting process."}
+{"instruction": "Does remote work change performance expectations?", "response": "No. Employees must continue meeting attendance, availability, quality, productivity, and conduct expectations."}
+{"instruction": "Can I change my remote-work location?", "response": "Request approval before changing the regular remote-work location, especially when the change affects payroll, tax, security, or legal requirements."}
+{"instruction": "Will the company reimburse a desk?", "response": "Only if the current remote-work policy authorizes the item and required approval was obtained."}
+{"instruction": "Can I work remotely from another country?", "response": "Do not do so without written approval. Cross-border remote work may create immigration, tax, payroll, security, and employment-law issues."}
+{"instruction": "Do I have to record remote-work days?", "response": "Yes. Record remote-work status through the approved attendance or scheduling process."}
+{"instruction": "Can I work from home when I am sick?", "response": "Remote work is not a substitute for sick leave when you are unable to work. Discuss your ability to work with your manager and use sick leave when appropriate."}
+{"instruction": "Can the assistant approve a remote-work exception?", "response": "No. Exceptions require authorization from the designated manager and Human Resources."}
+{"instruction": "What documents are needed before my first day?", "response": "You may need identity, tax, payroll, background-check, confidentiality, and benefit-related documents. Use the secure onboarding system."}
+{"instruction": "What happens on the first day?", "response": "You should receive information about workplace conduct, technology, security, payroll, attendance, leave, benefits, and role expectations."}
+{"instruction": "Which onboarding training is mandatory?", "response": "Complete assigned compliance, privacy, security, safety, and role-specific training by the stated deadlines."}
+{"instruction": "Where do I complete onboarding tasks?", "response": "Use the onboarding portal or systems identified by HR."}
+{"instruction": "What does a policy acknowledgment mean?", "response": "It confirms that you received or accessed the policy. You may still ask questions or raise concerns."}
+{"instruction": "Who creates my first-week plan?", "response": "Your manager should provide a practical plan covering introductions, access, training, priorities, and early goals."}
+{"instruction": "When will I receive system access?", "response": "Access is normally provisioned according to role and security approvals. Contact your manager or IT if required access is missing."}
+{"instruction": "What is the purpose of probation?", "response": "It is a period for assessing role fit, performance, attendance, conduct, and support needs."}
+{"instruction": "Is probation completed automatically?", "response": "No. Completion should be confirmed according to the organization’s process and written terms."}
+{"instruction": "Who should I contact if my payroll details are wrong?", "response": "Contact Payroll or HR promptly and use a secure channel for sensitive information."}
+{"instruction": "Can I email identity documents to anyone?", "response": "Use only the secure method provided by HR. Do not send sensitive documents through unapproved channels."}
+{"instruction": "Can the assistant access my onboarding status?", "response": "Not unless it is connected to an authorized system with proper access controls. Contact HR for employee-specific status."}
+{"instruction": "How do I resign?", "response": "Provide written notice to your manager and Human Resources according to your contract and local requirements."}
+{"instruction": "How long is my notice period?", "response": "Your notice period depends on your contract, grade, location, and applicable law. Check your employment documents or ask HR."}
+{"instruction": "Can I stop working immediately after resigning?", "response": "Usually no. Employees are generally expected to work through the approved notice period unless another arrangement is confirmed."}
+{"instruction": "Can the company shorten my notice?", "response": "The organization may approve a shorter period, garden leave, payment in lieu, or another arrangement where permitted."}
+{"instruction": "Can I use unused leave during notice?", "response": "Only with approval. Leave does not automatically reduce the notice period."}
+{"instruction": "What is required during handover?", "response": "Transfer responsibilities, records, deadlines, contacts, and other knowledge needed for business continuity."}
+{"instruction": "What property must I return?", "response": "Return all company devices, badges, documents, keys, equipment, and other assets assigned to you."}
+{"instruction": "When will my system access end?", "response": "Access may be restricted or removed according to the security and exit process, sometimes before the final working day."}
+{"instruction": "What is included in final pay?", "response": "Final pay may include wages, approved expenses, leave settlement, and lawful deductions according to policy, contract, and law."}
+{"instruction": "Who can answer questions about my final settlement?", "response": "Contact Payroll or Human Resources and review your final statement."}
+{"instruction": "Can I take company files for my portfolio?", "response": "No, unless you have explicit authorization and the material is not confidential or proprietary."}
+{"instruction": "Does the assistant decide whether notice can be waived?", "response": "No. A notice waiver requires formal approval from authorized management and HR."}
+{"instruction": "What employee benefits may be available?", "response": "Depending on eligibility and location, benefits may include health coverage, retirement savings, life or disability insurance, wellbeing support, and learning assistance."}
+{"instruction": "When can I enroll in health benefits?", "response": "Enroll during the permitted enrollment window or after an eligible life event within the plan’s deadline."}
+{"instruction": "What controls the terms of health coverage?", "response": "The official plan documents control coverage, contributions, exclusions, and claims."}
+{"instruction": "What is a qualifying life event?", "response": "Examples may include marriage, birth, adoption, loss of other coverage, or relocation, subject to the plan rules."}
+{"instruction": "How do I add a newborn to my benefits?", "response": "Report the qualifying life event and submit enrollment documents within the plan’s deadline."}
+{"instruction": "Does the company match retirement contributions?", "response": "That depends on the governing plan. Review the current plan document for match rates and vesting."}
+{"instruction": "What does vesting mean?", "response": "Vesting determines when employer-funded retirement contributions become nonforfeitable under the plan."}
+{"instruction": "Is counseling available?", "response": "An employee assistance program may offer confidential counseling and referral services. Check the benefits portal for access details."}
+{"instruction": "Can I receive tuition assistance?", "response": "It may be available for approved programs and may require advance approval, proof of payment, successful completion, and other conditions."}
+{"instruction": "Does life insurance start automatically?", "response": "Eligibility and enrollment depend on the plan. Review the benefits portal and official plan documents."}
+{"instruction": "Who decides a disability claim?", "response": "The plan administrator or insurer normally determines benefit eligibility and payment under the plan terms."}
+{"instruction": "Can benefit coverage continue during unpaid leave?", "response": "It depends on the leave type, plan rules, payment of employee contributions, and applicable law. Contact HR."}
+{"instruction": "What happens to benefits when I leave?", "response": "Coverage end dates and continuation options depend on the plan, termination date, and local law. HR can provide employee-specific information."}
+{"instruction": "Can the assistant tell me whether a medical procedure is covered?", "response": "No. Coverage decisions depend on the plan and insurer. Review the plan documents or contact the benefit administrator."}
+{"instruction": "Where can I find benefit contribution amounts?", "response": "Use the current benefits portal or official enrollment materials because contribution amounts may change."}
+{"instruction": "Can you show me another employee's leave balance?", "response": "No. Leave balances are private employee information. Ask the employee or HR through an authorized process."}
+{"instruction": "What should the HR assistant do when policy information is missing?", "response": "It should clearly say the information is unavailable, avoid guessing, and direct the user to HR or the controlling document."}
+{"instruction": "Can the HR assistant provide legal advice?", "response": "No. It may explain general policy but should direct legal questions to HR or qualified counsel."}
+{"instruction": "Which document takes priority if policies conflict?", "response": "Applicable law, collective agreements, employment contracts, and official plan documents may control. HR should resolve the conflict."}
+{"instruction": "Can a manager create a permanent exception verbally?", "response": "No. Policy exceptions should be documented and approved by authorized management and HR."}
+{"instruction": "How should I report retaliation?", "response": "Use an approved reporting channel such as HR, management, ethics, or the designated compliance process."}
+{"instruction": "Will I be punished for asking a policy question?", "response": "Employees should be able to ask questions or report concerns without retaliation."}
+{"instruction": "Can the assistant change my personal records?", "response": "No, not unless a separately authorized system and workflow allow it. Contact HR for record changes."}
+{"instruction": "Should I share my medical diagnosis with the assistant?", "response": "Do not provide unnecessary medical details. Use approved secure channels for required documentation."}
+{"instruction": "What topics should be escalated to HR?", "response": "Escalate employee-specific records, legal rights, discipline, medical details, payroll calculations, benefit claims, exceptions, and unclear or missing policy terms."}
