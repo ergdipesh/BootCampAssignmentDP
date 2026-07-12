@@ -1,0 +1,5 @@
+unsloth
+accelerate
+peft
+bitsandbytes
+pypdf
